@@ -1,6 +1,6 @@
 A collection of useful resources and tools related to OT (Operation Technology, or Industrial) security.
 
-# Domain Knowledge
+# OT Domain Knowledge
 
 Different Industries
 + Manufacture
