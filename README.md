@@ -48,10 +48,10 @@ for healthcare
 # OT Situation Awareness
 
 # Other Resources
-https://github.com/cyber-ranger/GRASSMARLIN
-Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments. 
-https://github.com/activecm/rita
-Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
-https://github.com/ivre/ivre
-Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, etc.
-https://github.com/automayt/ICS-pcap
++ https://github.com/cyber-ranger/GRASSMARLIN
+Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments.   
++ https://github.com/activecm/rita
+Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.  
++ https://github.com/ivre/ivre
+Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, etc.  
++ https://github.com/automayt/ICS-pcap
